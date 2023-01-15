@@ -1,0 +1,15 @@
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/bin/Debug/net7.0/InterfaceDemo
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/bin/Debug/net7.0/InterfaceDemo.deps.json
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/bin/Debug/net7.0/InterfaceDemo.runtimeconfig.json
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/bin/Debug/net7.0/InterfaceDemo.dll
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/bin/Debug/net7.0/InterfaceDemo.pdb
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.csproj.AssemblyReference.cache
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.AssemblyInfoInputs.cache
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.AssemblyInfo.cs
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.csproj.CoreCompileInputs.cache
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.dll
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/refint/InterfaceDemo.dll
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.pdb
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.genruntimeconfig.cache
+/home/kodnashion/RiderProjects/InterfaceDemoApp/InterfaceDemo/obj/Debug/net7.0/ref/InterfaceDemo.dll
