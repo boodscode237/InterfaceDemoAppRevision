@@ -21,6 +21,15 @@ namespace interfaceDemo
             {
                 controller.Connect();
                 controllers.Add(controller);
+                if (controller is GameController gc)
+                {
+                    gc.CurrentKeyPressed();
+                }
+
+                if (controller is IBatteryPowered)
+                {
+                    controller.Connect();
+                }
             }
 
             List<IBatteryPowered> batteryPowereds = new List<IBatteryPowered>();
@@ -56,7 +65,7 @@ namespace interfaceDemo
             throw new NotImplementedException();
         }
         
-        public string ConnectionType { get; set; }
+        public string? ConnectionType { get; set; }
     }
 
     public class BatteryPoweredKeyBoard : Keyboard, IBatteryPowered
@@ -84,7 +93,6 @@ namespace interfaceDemo
 
     public class BatteryPoweredGameController : GameController, IBatteryPowered
     {
-        private int _batteryLevel;
         private int BatteryPercentage { get; set; }
 
         public void BatteryLevel()
@@ -92,10 +100,6 @@ namespace interfaceDemo
             Console.WriteLine(BatteryPercentage);
         }
 
-        int IBatteryPowered.BatteryLevel
-        {
-            get => _batteryLevel;
-            set => _batteryLevel = value;
-        }
+        int IBatteryPowered.BatteryLevel { get; set; }
     }
 }
